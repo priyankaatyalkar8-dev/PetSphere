@@ -112,3 +112,49 @@ PetSphere/
 ├── fix_booking_reference.py
 ├── fix_booking_table.py
 └── fix_db.py
+
+## 🚀 How to Run the Project
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/priyankaatyalkar8-dev/PetSphere.git
+
+Navigate to the project folder
+cd PetSphere
+
+3. Create a virtual environment
+python -m venv myenv
+
+4. Activate the virtual environment
+Windows:
+myenv\Scripts\activate
+
+5. Install required packages
+pip install -r requirements.txt
+
+6. Apply database migrations
+python manage.py migrate
+
+7. Run the project
+python manage.py runserver
+
+8. Open in browser
+http://127.0.0.1:8000/
+
+## 🔮 Future Enhancements
+
+- Online Payment Gateway
+- Email & SMS Notifications
+- Advanced Appointment Scheduling
+- Pet Treatment and Training Management
+- Pet Vaccination Reminders
+- AI-Based Pet Care Recommendations
+- Mobile Application
+
+---
+
+## 👩‍💻 Author
+Priyanka Atyalkar
+Computer Science & Engineering Student
+GitHub: https://github.com/priyankaatyalkar8-dev
