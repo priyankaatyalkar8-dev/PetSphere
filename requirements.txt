@@ -1,0 +1,26 @@
+# ASGI (Asynchronous Server Gateway Interface) reference implementation
+asgiref==3.8.1
+
+# Django: The main web framework used for building the application
+Django==5.1.3
+
+# Django CKEditor: Adds rich-text editing functionality to the Django admin and models
+django-ckeditor==6.7.2
+
+# Django CKEditor 5: Another package for integrating CKEditor version 5 into Django projects
+django-ckeditor-5==0.2.15
+
+# Django Debug Toolbar: A debugging tool for Django to profile and debug code
+django-debug-toolbar==4.4.6
+
+# Django JS Asset: Utility for managing JavaScript assets in Django
+django-js-asset==2.2.0
+
+# Pillow: A Python Imaging Library (PIL) fork for image processing
+pillow==11.0.0
+
+# SQLParse: A library for parsing SQL queries (used internally by Django)
+sqlparse==0.5.2
+
+# Timezone Data: Timezone database required by Django for handling timezone-related operations
+tzdata==2024.2
